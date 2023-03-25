@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="76d04068-11a3-4123-95ce-0bb15365b69c" name="BKD" url="http://bkd.hbcdeveloper.nl/transportbedrijf">
+        <fileTransfer host="bkd.hbcdeveloper.nl" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
